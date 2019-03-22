@@ -1,0 +1,60 @@
+
+.swiper-container {
+	position: absolute;
+	width: 100%;
+	height: 100%
+}
+
+.swiper-slide {
+	position: relative;
+	overflow: hidden
+}
+
+#s0 {
+	background: red;
+}
+
+#s1{background: green;}
+
+
+#s2 {
+	background: yellow;
+}
+
+#s3 {
+	background:#FFF;
+}
+
+#s4 {
+	background: #f6f6f6;
+} 
+#s5 {
+	background: #FFF;
+} 
+
+
+#s8 {
+	background: #ffba17
+}
+
+
+#s9 {
+	background: #f39c12
+}
+
+#s10 {
+	background: #37bef0
+}
+
+#s11 {
+	background: #64c6f2
+}
+
+#s12 {
+	background: #3789cc
+}
+
+#s13 {
+	background: #2e66b0
+}
+
